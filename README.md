@@ -96,8 +96,7 @@
 
       | Package                                                | Status         |
       | ------------------------------------------------------ | -------------  |
-      | [@cruxjs/core](https://github.com/cruxjs-org/core)     | 🚧 In Progress |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ⏭️ Next        |
+      | [@cruxjs/app](https://github.com/cruxjs-org/app)       | 🚧 In Progress |
 
       > last update: 05-01-2026
 
