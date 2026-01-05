@@ -83,6 +83,7 @@
       | [@minejs/http](https://github.com/minejs-org/http)       | ✔️ Done |
       | [@minejs/router](https://github.com/minejs-org/router)   | ✔️ Done |
       | [@minejs/db](https://github.com/minejs-org/db)           | ✔️ Done |
+      | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️ Done |
       | [@minejs/server](https://github.com/minejs-org/server)   | ✔️ Done |
 
       > finished at: 05-01-2026
