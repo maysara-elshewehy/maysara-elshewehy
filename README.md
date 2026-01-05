@@ -76,6 +76,8 @@
 
       | Package                                                  | Status |
       | -------------------------------------------------------- | ------ |
+      | [@minejs/cli](https://github.com/minejs-org/cli)         | ✔️ Done |
+      | [@minejs/hmm](https://github.com/minejs-org/hmm)         | ✔️ Done |
       | [@minejs/signals](https://github.com/minejs-org/signals) | ✔️ Done |
       | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️ Done |
       | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️ Done |
