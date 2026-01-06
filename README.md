@@ -108,11 +108,8 @@
 
       | Package                                            | Status        |
       | -------------------------------------------------- | ------------- |
-      | [@cruxui/page](https://github.com/cruxui-org/page) | 🚧 In Progress |
       | [@cruxui/app](https://github.com/cruxui-org/app)   | 🚧 In Progress |
-
-      | Package                                                      | Status        |
-      | ------------------------------------------------------------ | ------------- |
+      | [@cruxui/page](https://github.com/cruxui-org/page) | 🚧 In Progress |
       | [@cruxui/home_page](https://github.com/cruxui-org/home_page) | 🚧 In Progress |
 
     ---
