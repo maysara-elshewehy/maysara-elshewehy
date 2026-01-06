@@ -85,18 +85,19 @@
       | [@minejs/http](https://github.com/minejs-org/http)       | ✔️ Done |
       | [@minejs/db](https://github.com/minejs-org/db)           | ✔️ Done |
       | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️ Done |
-      | [@minejs/browser](https://github.com/minejs-org/browser) | 🚧 In Progress |
+      | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️ Done |
       | [@minejs/server](https://github.com/minejs-org/server)   | ✔️ Done |
 
-      > last update: 06-01-2026
+      > finished at: 06-01-2026
 
     - #### Phase 2
 
-      > started at: 05-01-2026
+      > started at: 06-01-2026
 
       | Package                                                | Status         |
       | ------------------------------------------------------ | -------------  |
+      | [@cruxjs/client](https://github.com/cruxjs-org/client) | 🚧 In Progress |
       | [@cruxjs/app](https://github.com/cruxjs-org/app)       | 🚧 In Progress |
 
-      > last update: 05-01-2026
+      > last update: 06-01-2026
 
