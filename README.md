@@ -82,14 +82,14 @@
       | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️ Done |
       | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️ Done |
       | [@minejs/store](https://github.com/minejs-org/store)     | ✔️ Done |
-      | [@minejs/window](https://github.com/minejs-org/window)   | 🚧 In Progress |
       | [@minejs/http](https://github.com/minejs-org/http)       | ✔️ Done |
       | [@minejs/db](https://github.com/minejs-org/db)           | ✔️ Done |
       | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️ Done |
+      | [@minejs/browser](https://github.com/minejs-org/browser) | 🚧 In Progress |
       | [@minejs/client](https://github.com/minejs-org/client)   | 🚧 In Progress |
       | [@minejs/server](https://github.com/minejs-org/server)   | ✔️ Done |
 
-      > finished at: 05-01-2026 (well, not yet, i'll play a little bit more here xD)
+      > last update: 06-01-2026
 
     - #### Phase 2
 
