@@ -59,7 +59,6 @@
       >
       > Plugins can use and build on top of @cruxjs-kit when needed.
 
-
     - #### [`nezam.dev`](https://nezam.dev)
 
       > ..?!
@@ -68,11 +67,9 @@
 
   - ### Progress
 
-    > hmmm...
-
     - #### Phase 1
 
-      > started at: 03-01-2026
+      > started: 03-01-2026
 
       | Package                                                  | Status |
       | -------------------------------------------------------- | ------ |
@@ -88,16 +85,62 @@
       | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️ Done |
       | [@minejs/server](https://github.com/minejs-org/server)   | ✔️ Done |
 
-      > finished at: 06-01-2026
+    ---
 
     - #### Phase 2
 
-      > started at: 06-01-2026
+      > started: 06-01-2026
 
-      | Package                                                | Status         |
-      | ------------------------------------------------------ | -------------  |
+      | Package                                                | Status        |
+      | ------------------------------------------------------ | ------------- |
       | [@cruxjs/client](https://github.com/cruxjs-org/client) | 🚧 In Progress |
       | [@cruxjs/app](https://github.com/cruxjs-org/app)       | 🚧 In Progress |
 
-      > last update: 06-01-2026
+      | Package                                                            | Status        |
+      | ------------------------------------------------------------------ | ------------- |
+      | [@cruxjs-plugins/base](https://github.com/cruxjs-plugins/base)     | 🚧 In Progress |
+      | [@cruxjs-plugins/spa](https://github.com/cruxjs-plugins/spa)       | 🚧 In Progress |
+      | [@cruxjs-plugins/uauth](https://github.com/cruxjs-plugins/uauth)   | ⏭️ Next        |
+      | [@cruxjs-plugins/ulogs](https://github.com/cruxjs-plugins/ulogs)   | ⏭️ Next        |
+      | [@cruxjs-plugins/uspace](https://github.com/cruxjs-plugins/uspace) | ⏭️ Next        |
+
+      | Package                                                        | Status |
+      | -------------------------------------------------------------- | ------ |
+      | [@cruxjs-kit/base](https://github.com/cruxjs-kit/base)         | ⏭️ Next |
+      | [@cruxjs-kit/flex](https://github.com/cruxjs-kit/flex)         | ⏭️ Next |
+      | [@cruxjs-kit/icon](https://github.com/cruxjs-kit/icon)         | ⏭️ Next |
+      | [@cruxjs-kit/text](https://github.com/cruxjs-kit/text)         | ⏭️ Next |
+      | [@cruxjs-kit/label](https://github.com/cruxjs-kit/label)       | ⏭️ Next |
+      | [@cruxjs-kit/input](https://github.com/cruxjs-kit/input)       | ⏭️ Next |
+      | [@cruxjs-kit/dropdown](https://github.com/cruxjs-kit/dropdown) | ⏭️ Next |
+      | [@cruxjs-kit/button](https://github.com/cruxjs-kit/button)     | ⏭️ Next |
+      | [@cruxjs-kit/card](https://github.com/cruxjs-kit/card)         | ⏭️ Next |
+      | [@cruxjs-kit/form](https://github.com/cruxjs-kit/form)         | ⏭️ Next |
+
+      | Package                                                                | Status |
+      | ---------------------------------------------------------------------- | ------ |
+      | [@cruxjs-kit/loader](https://github.com/cruxjs-kit/loader)             | ⏭️ Next |
+      | [@cruxjs-kit/navbar](https://github.com/cruxjs-kit/navbar)             | ⏭️ Next |
+      | [@cruxjs-kit/main](https://github.com/cruxjs-kit/main)                 | ⏭️ Next |
+      | [@cruxjs-kit/footer](https://github.com/cruxjs-kit/footer)             | ⏭️ Next |
+      | [@cruxjs-kit/tabs_viewer](https://github.com/cruxjs-kit/tabs_viewer)   | ⏭️ Next |
+      | [@cruxjs-kit/items_loader](https://github.com/cruxjs-kit/items_loader) | ⏭️ Next |
+      | [@cruxjs-kit/page](https://github.com/cruxjs-kit/page)                 | ⏭️ Next |
+      | [@cruxjs-kit/app](https://github.com/cruxjs-kit/app)                   | ⏭️ Next |
+
+      | Package                                                                  | Status |
+      | ------------------------------------------------------------------------ | ------ |
+      | [@cruxjs-kit/logs](https://github.com/cruxjs-kit/logs)                   | ⏭️ Next |
+      | [@cruxjs-kit/notifications](https://github.com/cruxjs-kit/notifications) | ⏭️ Next |
+
+      | Package                                                                    | Status |
+      | -------------------------------------------------------------------------- | ------ |
+      | [@cruxjs-kit/land_page](https://github.com/cruxjs-kit/land_page)           | ⏭️ Next |
+      | [@cruxjs-kit/auth_page](https://github.com/cruxjs-kit/auth_page)           | ⏭️ Next |
+      | [@cruxjs-kit/profile_page](https://github.com/cruxjs-kit/profile_page)     | ⏭️ Next |
+      | [@cruxjs-kit/dashboard_page](https://github.com/cruxjs-kit/dashboard_page) | ⏭️ Next |
+
+---
+
+> updated: 06-01-2026
 
