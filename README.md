@@ -86,8 +86,8 @@
 
       | Package                                                    | Status        |
       | ---------------------------------------------------------- | ------------- |
+      | [@minejsx/render](https://github.com/minejsx-org/render)   | ✔️ Done |
       | [@minejsx/runtime](https://github.com/minejsx-org/runtime) | 🚧 In Progress |
-      | [@minejsx/render](https://github.com/minejsx-org/render)   | 🚧 In Progress |
       | [@minejsx/...](https://github.com/minejsx-org/...)         | 🚧 In Progress |
 
     ---
