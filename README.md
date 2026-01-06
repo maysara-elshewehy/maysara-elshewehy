@@ -35,7 +35,7 @@
 
       > I dislike most existing frameworks for reasons I can’t fully explain,
       >
-      > so I decided to build a new one — a smart wrapper around all the components in [@minejs](https://github.com/minejs-org).
+      > so I decided to build a new one, a smart wrapper around all the components in [@minejs](https://github.com/minejs-org).
 
     - #### [`@cruxjs-kit`](https://github.com/cruxjs-kit)
 
