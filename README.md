@@ -134,6 +134,7 @@
       | ---------------------------------------------------------------------- | ------ |
       | [@cruxjs-kit/loader](https://github.com/cruxjs-kit/loader)             | ⏭️ Next |
       | [@cruxjs-kit/toast](https://github.com/cruxjs-kit/toast)               | ⏭️ Next |
+      | [@cruxjs-kit/popup](https://github.com/cruxjs-kit/popup)               | ⏭️ Next |
       | [@cruxjs-kit/navbar](https://github.com/cruxjs-kit/navbar)             | ⏭️ Next |
       | [@cruxjs-kit/hero](https://github.com/cruxjs-kit/hero)                 | ⏭️ Next |
       | [@cruxjs-kit/footer](https://github.com/cruxjs-kit/footer)             | ⏭️ Next |
