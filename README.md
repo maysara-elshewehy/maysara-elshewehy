@@ -122,8 +122,9 @@
       | Package                                                                | Status |
       | ---------------------------------------------------------------------- | ------ |
       | [@cruxjs-kit/loader](https://github.com/cruxjs-kit/loader)             | ⏭️ Next |
+      | [@cruxjs-kit/toast](https://github.com/cruxjs-kit/toast)               | ⏭️ Next |
       | [@cruxjs-kit/navbar](https://github.com/cruxjs-kit/navbar)             | ⏭️ Next |
-      | [@cruxjs-kit/main](https://github.com/cruxjs-kit/main)                 | ⏭️ Next |
+      | [@cruxjs-kit/hero](https://github.com/cruxjs-kit/hero)                 | ⏭️ Next |
       | [@cruxjs-kit/footer](https://github.com/cruxjs-kit/footer)             | ⏭️ Next |
       | [@cruxjs-kit/tabs_viewer](https://github.com/cruxjs-kit/tabs_viewer)   | ⏭️ Next |
       | [@cruxjs-kit/items_loader](https://github.com/cruxjs-kit/items_loader) | ⏭️ Next |
@@ -140,7 +141,7 @@
       | [@cruxjs-kit/land_page](https://github.com/cruxjs-kit/land_page)           | ⏭️ Next |
       | [@cruxjs-kit/auth_page](https://github.com/cruxjs-kit/auth_page)           | ⏭️ Next |
       | [@cruxjs-kit/profile_page](https://github.com/cruxjs-kit/profile_page)     | ⏭️ Next |
-      | [@cruxjs-kit/dashboard_page](https://github.com/cruxjs-kit/dashboard_page) | ⏭️ Next |
+      | [@cruxjs-kit/board_page](https://github.com/cruxjs-kit/board_page)         | ⏭️ Next |
 
 ---
 
