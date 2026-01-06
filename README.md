@@ -48,6 +48,8 @@
       > So, following the same idea as [@minejs](https://github.com/minejs-org), I’m writing these pieces once here,
       >
       > to reuse them later across all applications built with [@cruxjs](https://github.com/cruxjs-org).
+      
+      > **Frontend Only**
 
     - #### [`@cruxjs-plugins`](https://github.com/cruxjs-plugins)
 
@@ -58,8 +60,8 @@
       > They are full, dynamic plugins with their own complete logic and lifecycle.
 
       > For example, I plan to have plugins like: `@cruxjs-plugins/auth`, `@cruxjs-plugins/oauth`, and so on.
-      >
-      > Plugins can use and build on top of @cruxjs-kit when needed.
+      
+      > **Backend Only**
 
     - #### [`nezam.dev`](https://nezam.dev)
 
