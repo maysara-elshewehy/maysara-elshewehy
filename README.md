@@ -106,7 +106,7 @@
       | Package                                                    | Status |
       | ---------------------------------------------------------- | ------ |
       | [@minejsx/render](https://github.com/minejsx-org/render)   | ✔️      |
-      | [@minejsx/runtime](https://github.com/minejsx-org/runtime) | 🚧      |
+      | [@minejsx/runtime](https://github.com/minejsx-org/runtime) | ✔️      |
   
       | Package                                                        | Status |
       | -------------------------------------------------------------- | ------ |
