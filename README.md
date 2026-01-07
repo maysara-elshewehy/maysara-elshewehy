@@ -75,7 +75,7 @@
     > Orchestrates without dictating.
     > No magic. No "framework way."
     
-    - ### [@mineui](https://github.com/mineui-org)
+  - ### [@mineui](https://github.com/mineui-org)
     > Context-aware CSS.
     > Same component, different pages, automatic styling.
     
