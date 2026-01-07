@@ -120,7 +120,7 @@
       | [@cruxjs/client](https://github.com/cruxjs-org/client)         | 🚧      |
       | [@cruxjs/app](https://github.com/cruxjs-org/app)               | 🚧      |
       | --                                                             | --     |
-      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)           | 🚧      |
+      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)           | ✔️      |
       | --                                                             | --     |
       | [@cruxkit/app](https://github.com/cruxkit-org/app)             | 🚧      |
       | [@cruxkit/page](https://github.com/cruxkit-org/page)           | 🚧      |
