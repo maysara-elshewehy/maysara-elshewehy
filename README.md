@@ -117,14 +117,15 @@
       | Package                                                        | Status |
       | -------------------------------------------------------------- | ------ |
       | [@cruxjs/base](https://github.com/cruxjs-org/base)             | ✔️      |
-      | [@cruxjs/client](https://github.com/cruxjs-org/client)         | 🚧      |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)               | 🚧      |
+      | [@cruxjs/client](https://github.com/cruxjs-org/client)         | ✔️      |
+      | [@cruxjs/app](https://github.com/cruxjs-org/app)               | ✔️      |
       | --                                                             | --     |
       | [@cruxplug/spa](https://github.com/cruxplug-org/spa)           | ✔️      |
       | --                                                             | --     |
       | [@cruxkit/app](https://github.com/cruxkit-org/app)             | 🚧      |
       | [@cruxkit/page](https://github.com/cruxkit-org/page)           | 🚧      |
       | [@cruxkit/home_page](https://github.com/cruxkit-org/home_page) | 🚧      |
+      | [@cruxkit/error_page](https://github.com/cruxkit-org/error_page) | 🚧      |
       | --                                                             | --     |
       | [@mineui/core](https://github.com/mineui-org/core)             | 🚧      |
       | [@mineui/components](https://github.com/mineui-org/components) | 🚧      |
