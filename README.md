@@ -27,20 +27,19 @@
   ---
 
 - ## The Solution
-
+  
   > Not another framework. **The end of frameworks.**
-  >
-  > Stop rewriting the same patterns. Stop rebuilding the same components. Stop fighting the same battles.
-  >
-  > **Package them once. Use them forever.**
-
+  > 
+  > Stop rewriting. Stop rebuilding. Stop repeating.
+  
+  **Build once. Use forever.**
   ```
-  @minejs  → Utilities that stand alone
+  @minejs  → Utilities with zero dependencies
   @minejsx → JSX freed from React
-  @cruxjs  → Framework without constraints
-  @mineui  → CSS that knows its context
-  @cruxui  → Components that just work
-  @cruxup  → Backend that extends, not explodes
+  @cruxjs  → Framework that trusts you
+  @mineui  → CSS that knows context
+  @cruxui  → Patterns proven 25 years
+  @cruxup  → Modules that extend, not explode
   nezam    → Space for impossible dreams
   ```
 
@@ -62,105 +61,35 @@
 
         ---
 
-  - ## Philosophy
+- ## Philosophy
 
   - ### [@minejs](https://github.com/minejs-org)
-
-    > Core utilities that stand alone yet connect seamlessly.
-
-    > No dependencies on frameworks. No lock-in to ecosystems. No vendor worship.
-    >
-    > Just pure logic that works anywhere, browser, server, edge, terminal.
-    >
-    > Build once. Use everywhere. Forever.
-
-    ---
-
+    > Pure logic. No frameworks. No lock-in.
+    > Works anywhere. Forever.
+    
   - ### [@minejsx](https://github.com/minejsx-org)
-
-    > JSX without the framework overhead.
-
-    > JSX was never React's property. It's syntax. Universal syntax.
-    >
-    > Lightweight runtime that renders fast, reacts instantly, weighs nothing.
-    >
-    > Use it anywhere. Build UIs everywhere. No framework prison.
-
-    ---
-
+    > JSX is syntax, not React's property.
+    > Fast runtime. Zero overhead.
+    
   - ### [@cruxjs](https://github.com/cruxjs-org)
-
-    > A framework that trusts your instincts.
-
-    > Built to orchestrate @minejs without imposing unnecessary constraints.
-    >
-    > No magic. No hidden behavior. No "framework way."
-    >
-    > You write the logic. It connects the pieces. That's it.
-
-    ---
-
-  - ### [@mineui](https://github.com/mineui-org)
-
-    > CSS that knows where it lives.
-
-    > The same button looks different in auth vs dashboard,automatically.
-    >
-    > Context-aware styling. Zero specificity wars. No more copy-pasting stylesheets.
-    >
-    > **Separation of logic and presentation. Finally done right.**
-
-    ---
-
+    > Orchestrates without dictating.
+    > No magic. No "framework way."
+    
+    - ### [@mineui](https://github.com/mineui-org)
+    > Context-aware CSS.
+    > Same component, different pages, automatic styling.
+    
   - ### [@cruxui](https://github.com/cruxui-org)
-
-    > The patterns that work, packaged once.
-
-    > Every project repeats the same UI challenges:
-    >
-    > Dropdown. Popup. Form validation. Toast notifications. Data tables. Auth flows.
-    >
-    > **You've built them 1000 times. I've built them 1000 times.**
-
+    > Every UI pattern you've built 1000 times.
     > **This is the last time.**
-    >
-    > Patterns proven over 25 years. Battle-tested. Optimized. Documented. Ready.
-    >
-    > Drop into any @cruxjs app. Styled by @mineui. Just works.
-
-    ---
-
+    
   - ### [@cruxup](https://github.com/cruxup-org)
-
-    > Backend features that plug in, not bolt on.
-
-    > Living, breathing services with their own worlds.
-    >
-    > Auth. Logs. Workspaces. Storage. Each module is self-contained, fully functional, infinitely extensible.
-    >
-    > Add features to your system without rewriting everything.
-
-    ---
-
+    > Backend modules with their own worlds.
+    > Plug in, don't bolt on.
+    
   - ### [nezam.dev](https://nezam.dev)
-
-    > The space where dreams stop being impossible.
-
-    > Not project management. Not collaboration tools. Not another SaaS template.
-    >
-    > **A workspace for anyone with a dream too big for existing tools.**
-
-    ```
-    User → Workspace → Modules → Infinite possibilities
-    ```
-
-    > Your friend needs a furniture store? Module.
-    >
-    > You need project management? Module.
-    >
-    > Someone needs a blog platform? Module.
-
-    > **Give people the space. They'll build their world.**
+    > Workspace for dreams too big for tools.
+    > `User → Workspace → Modules → ∞`
 
     ---
 
