@@ -41,7 +41,7 @@
   @cruxui    → Patterns proven 25 years
   @cruxplug  → Modules that extend, not explode
   ```
-  
+
   ```
   nezam      → Space for impossible dreams
   ```
@@ -93,24 +93,21 @@
     - #### Phase 1
       > started: 03-01-2026
 
-      | Package                                                        | Status |
-      | -------------------------------------------------------------- | ------ |
-      | [@minejs/cli](https://github.com/minejs-org/cli)               | ✔️      |
-      | [@minejs/hmm](https://github.com/minejs-org/hmm)               | ✔️      |
-      | [@minejs/signals](https://github.com/minejs-org/signals)       | ✔️      |
-      | [@minejs/hooks](https://github.com/minejs-org/hooks)           | ✔️      |
-      | [@minejs/store](https://github.com/minejs-org/store)           | ✔️      |
-      | [@minejs/http](https://github.com/minejs-org/http)             | ✔️      |
-      | [@minejs/db](https://github.com/minejs-org/db)                 | ✔️      |
-      | [@minejs/i18n](https://github.com/minejs-org/i18n)             | ✔️      |
-      | [@minejs/browser](https://github.com/minejs-org/browser)       | ✔️      |
-      | [@minejs/server](https://github.com/minejs-org/server)         | ✔️      |
-      | --                                                             | --     |
-      | [@minejsx/render](https://github.com/minejsx-org/render)       | ✔️      |
-      | [@minejsx/runtime](https://github.com/minejsx-org/runtime)     | ✔️      |
-      | --                                                             | --     |
-      | [@mineui/core](https://github.com/mineui-org/core)             | 🚧      |
-      | [@mineui/components](https://github.com/mineui-org/components) | 🚧      |
+      | Package                                                    | Status |
+      | ---------------------------------------------------------- | ------ |
+      | [@minejs/cli](https://github.com/minejs-org/cli)           | ✔️      |
+      | [@minejs/hmm](https://github.com/minejs-org/hmm)           | ✔️      |
+      | [@minejs/signals](https://github.com/minejs-org/signals)   | ✔️      |
+      | [@minejs/hooks](https://github.com/minejs-org/hooks)       | ✔️      |
+      | [@minejs/store](https://github.com/minejs-org/store)       | ✔️      |
+      | [@minejs/http](https://github.com/minejs-org/http)         | ✔️      |
+      | [@minejs/db](https://github.com/minejs-org/db)             | ✔️      |
+      | [@minejs/i18n](https://github.com/minejs-org/i18n)         | ✔️      |
+      | [@minejs/browser](https://github.com/minejs-org/browser)   | ✔️      |
+      | [@minejs/server](https://github.com/minejs-org/server)     | ✔️      |
+      | --                                                         | --     |
+      | [@minejsx/render](https://github.com/minejsx-org/render)   | ✔️      |
+      | [@minejsx/runtime](https://github.com/minejsx-org/runtime) | ✔️      |
 
       ---
 
@@ -119,16 +116,20 @@
 
       | Package                                                        | Status |
       | -------------------------------------------------------------- | ------ |
+      | [@cruxjs/base](https://github.com/cruxjs-org/base)             | ✔️      |
       | [@cruxjs/client](https://github.com/cruxjs-org/client)         | 🚧      |
       | [@cruxjs/app](https://github.com/cruxjs-org/app)               | 🚧      |
       | --                                                             | --     |
-      | [@cruxplug/base](https://github.com/cruxplug-org/base)         | 🚧      |
       | [@cruxplug/spa](https://github.com/cruxplug-org/spa)           | 🚧      |
       | --                                                             | --     |
       | [@cruxkit/app](https://github.com/cruxkit-org/app)             | 🚧      |
       | [@cruxkit/page](https://github.com/cruxkit-org/page)           | 🚧      |
       | [@cruxkit/home_page](https://github.com/cruxkit-org/home_page) | 🚧      |
-
+      | --                                                             | --     |
+      | [@mineui/core](https://github.com/mineui-org/core)             | 🚧      |
+      | [@mineui/components](https://github.com/mineui-org/components) | 🚧      |
+      | [@mineui/contexts](https://github.com/mineui-org/contexts)     | 📋      |
+      | [@mineui/themes](https://github.com/mineui-org/themes)         | 📋      |
       ---
 
     - #### Phase 3
@@ -136,9 +137,6 @@
 
       | Package                                                                | Status |
       | ---------------------------------------------------------------------- | ------ |
-      | [@mineui/contexts](https://github.com/mineui-org/contexts)             | 📋      |
-      | [@mineui/themes](https://github.com/mineui-org/themes)                 | 📋      |
-      | --                                                                     | --     |
       | [@cruxplug/uauth](https://github.com/cruxplug-org/uauth)               | 📋      |
       | [@cruxplug/ulogs](https://github.com/cruxplug-org/ulogs)               | 📋      |
       | [@cruxplug/uspace](https://github.com/cruxplug-org/uspace)             | 📋      |
