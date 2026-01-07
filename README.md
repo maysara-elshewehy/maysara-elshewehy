@@ -34,13 +34,13 @@
 
   **Build once. Use forever.**
   ```
-  @minejs  → Utilities with zero dependencies
-  @minejsx → JSX freed from React
-  @cruxjs  → Framework that trusts you
-  @mineui  → CSS that knows context
-  @cruxui  → Patterns proven 25 years
+  @minejs    → Utilities with zero dependencies
+  @minejsx   → JSX freed from React
+  @cruxjs    → Framework that trusts you
+  @mineui    → CSS that knows context
+  @cruxui    → Patterns proven 25 years
   @cruxplug  → Modules that extend, not explode
-  nezam    → Space for impossible dreams
+  nezam      → Space for impossible dreams
   ```
 
   <br>
