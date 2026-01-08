@@ -84,7 +84,11 @@
       | [@mineui/icons](https://github.com/mineui-org/icons)   | 🚧      |
       | --                                                     | --     |
       | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
-      | [@cruxplug/...](https://github.com/cruxplug-org/...)   | 📋      |
+
+      ---
+
+    - #### Phase 3
+      > not yet.
 
       <br>
 
