@@ -84,26 +84,26 @@
       | [@mineui/icons](https://github.com/mineui-org/icons)   | ✔️      |
       | --                                                     | --     |
       | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
-    
+
     ---
-    
+
     - #### Phase 2.5: Reset & Rebuild
       > started: 09-01-2026
 
       > _The first attempt succeeded, but **perfection demands more**._
-      > 
+      >
       > _Before moving forward, a **critical** reset is necessary._
-    
+
       - #### Current State
-  
+
         > **@cruxkit** and **@mineui** are 90% AI-generated. **The output quality is unacceptable**.
-        > 
+        >
         > Manual reconstruction is required, executed in stages to maintain sustainability.
- 
+
       - #### New Approach
-  
+
         > Building a living documentation system through incremental examples:
-        > 
+        >
         > - Start with `cruxjs_app_hello_world` - a single homepage, fully explained
         > - Next repo adds error handling, references the previous, explains the delta
         > - Each repository builds on the last, one concept at a time
@@ -111,31 +111,31 @@
       - #### The Why
 
         > Knowledge retention through repetition. My mind needs time to internalize this volume of information.
-        > 
+        >
         > This isn't just a framework - it's a complete UI paradigm shift. Not HTML. Not CSS. Not standard JSX.
         > A new system that generates the necessary backend automatically, eliminating the noise.
-        > 
+        >
         > Building manually, repeatedly, cements understanding. Essential for teaching others later.
 
       - #### Philosophy
-  
+
         > Ignore the current CSS quality. Focus on architecture.
-        > 
+        >
         > Each piece must be built by hand, understood completely, then documented.
-        > 
+        >
         > **This is how mastery happens.**
 
       - #### Progress
-  
+
         | Package                                                                  | Status |
         | ------------------------------------------------------------------------ | ------ |
-        | [@hmm-repos/lib](https://github.com/hmm-repos/lib)                       | ✔️      |
-        | [@hmm-repos/cli](https://github.com/hmm-repos/cli)                       | 🚧      |
-        | [@hmm-repos/server](https://github.com/hmm-repos/server)                 | 🚧      |
-        | [@hmm-repos/app](https://github.com/hmm-repos/app)                       | 🚧      |
+        | [@repo-example/lib](https://github.com/repo-example/lib)                 | ✔️      |
+        | [@repo-example/cli](https://github.com/repo-example/cli)                 | 🚧      |
+        | [@repo-example/server](https://github.com/repo-example/server)           | 🚧      |
+        | [@repo-example/app](https://github.com/repo-example/app)                 | 🚧      |
         | --                                                                       | --     |
         | [@app-examples/hello_world](https://github.com/app-examples/hello_world) | 🚧      |
-    
+
       ---
 
     - #### Phase 3
