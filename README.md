@@ -96,7 +96,7 @@
     
       - #### Current State
   
-        > @cruxkit and @mineui are 90% AI-generated. The output quality is unacceptable.
+        > **@cruxkit** and **@mineui** are 90% AI-generated. **The output quality is unacceptable**.
         > 
         > Manual reconstruction is required, executed in stages to maintain sustainability.
  
