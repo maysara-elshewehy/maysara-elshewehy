@@ -6,48 +6,6 @@
 
 <br>
 
-- ## The Problem
-
-  > 25 years of building and burning.
-  >
-  > Not from failure. From perfection's curse.
-
-  > Every system reaches 60% and becomes chaos. Every architecture collapses under its own complexity. Every project gets deleted before dawn.
-  >
-  > MMORPG at 11 years old. Operating systems. Programming languages. Frameworks. Libraries. Platforms.
-  >
-  > **All deleted.**
-
-  > Not because they failed, but because chaos is unbearable to a perfectionist's mind.
-  >
-  > But time ran out. The body is failing. The mind refuses to stop.
-  >
-  > **One last architecture. One that survives.**
-
-  <br>
-
-- ## The Solution
-
-  > Not another framework. **The end of frameworks.**
-  >
-  > Stop rewriting. Stop rebuilding. Stop repeating.
-
-  **Build once. Use forever.**
-  ```
-  @minejs    → Utilities with zero dependencies
-  @minejsx   → JSX freed from React
-  @cruxjs    → Framework that trusts you
-  @mineui    → CSS that knows context
-  @cruxui    → Patterns proven 25 years
-  @cruxplug  → Modules that extend, not explode
-  ```
-
-  ```
-  nezam      → Space for impossible dreams
-  ```
-
-  <br>
-
 - ## Plan {A}
 
   > well...
