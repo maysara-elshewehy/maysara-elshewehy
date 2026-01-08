@@ -114,49 +114,19 @@
     - #### Phase 2
       > started: 06-01-2026
 
-      | Package                                                        | Status |
-      | -------------------------------------------------------------- | ------ |
-      | [@cruxjs/base](https://github.com/cruxjs-org/base)             | ✔️      |
-      | [@cruxjs/client](https://github.com/cruxjs-org/client)         | ✔️      |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)               | ✔️      |
-      | --                                                             | --     |
-      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)           | ✔️      |
-      | --                                                             | --     |
-      | [@cruxkit/app](https://github.com/cruxkit-org/app)             | 🚧      |
-      | [@cruxkit/page](https://github.com/cruxkit-org/page)           | 🚧      |
-      | [@cruxkit/home_page](https://github.com/cruxkit-org/home_page) | 🚧      |
-      | [@cruxkit/error_page](https://github.com/cruxkit-org/error_page) | 🚧      |
-      | --                                                             | --     |
-      | [@mineui/core](https://github.com/mineui-org/core)             | 🚧      |
-      | [@mineui/components](https://github.com/mineui-org/components) | 🚧      |
-      | [@mineui/contexts](https://github.com/mineui-org/contexts)     | 📋      |
-      | [@mineui/themes](https://github.com/mineui-org/themes)         | 📋      |
-      ---
-
-    - #### Phase 3
-      > not yet.
-
-      | Package                                                                | Status |
-      | ---------------------------------------------------------------------- | ------ |
-      | [@cruxplug/uauth](https://github.com/cruxplug-org/uauth)               | 📋      |
-      | [@cruxplug/ulogs](https://github.com/cruxplug-org/ulogs)               | 📋      |
-      | [@cruxplug/uspace](https://github.com/cruxplug-org/uspace)             | 📋      |
-      | --                                                                     | --     |
-      | [@cruxkit/loader](https://github.com/cruxkit-org/loader)               | 📋      |
-      | [@cruxkit/toast](https://github.com/cruxkit-org/toast)                 | 📋      |
-      | [@cruxkit/popup](https://github.com/cruxkit-org/popup)                 | 📋      |
-      | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)               | 📋      |
-      | [@cruxkit/hero](https://github.com/cruxkit-org/hero)                   | 📋      |
-      | [@cruxkit/footer](https://github.com/cruxkit-org/footer)               | 📋      |
-      | [@cruxkit/tabs_viewer](https://github.com/cruxkit-org/tabs_viewer)     | 📋      |
-      | [@cruxkit/items_loader](https://github.com/cruxkit-org/items_loader)   | 📋      |
-      | --                                                                     | --     |
-      | [@cruxkit/logs](https://github.com/cruxkit-org/logs)                   | 📋      |
-      | [@cruxkit/notifications](https://github.com/cruxkit-org/notifications) | 📋      |
-      | --                                                                     | --     |
-      | [@cruxkit/auth_page](https://github.com/cruxkit-org/auth_page)         | 📋      |
-      | [@cruxkit/profile_page](https://github.com/cruxkit-org/profile_page)   | 📋      |
-      | [@cruxkit/board_page](https://github.com/cruxkit-org/board_page)       | 📋      |
+      | Package                                                | Status |
+      | ------------------------------------------------------ | ------ |
+      | [@cruxjs/base](https://github.com/cruxjs-org/base)     | ✔️      |
+      | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
+      | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
+      | --                                                     | --     |
+      | [@cruxkit/core](https://github.com/cruxkit-org/core)   | 🚧      |
+      | --                                                     | --     |
+      | [@mineui/core](https://github.com/mineui-org/core)     | 🚧      |
+      | [@mineui/icons](https://github.com/mineui-org/icons)   | 🚧      |
+      | --                                                     | --     |
+      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
+      | [@cruxplug/...](https://github.com/cruxplug-org/...)   | 📋      |
 
       <br>
 
