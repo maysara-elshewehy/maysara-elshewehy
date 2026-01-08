@@ -124,7 +124,18 @@
         > Each piece must be built by hand, understood completely, then documented.
         > 
         > **This is how mastery happens.**
-        
+
+      - #### Progress
+  
+        | Package                                                                  | Status |
+        | ------------------------------------------------------------------------ | ------ |
+        | [@hmm-repos/lib](https://github.com/hmm-repos/lib)                       | ✔️      |
+        | [@hmm-repos/cli](https://github.com/hmm-repos/cli)                       | 🚧      |
+        | [@hmm-repos/server](https://github.com/hmm-repos/server)                 | 🚧      |
+        | [@hmm-repos/app](https://github.com/hmm-repos/app)                       | 🚧      |
+        | --                                                                       | --     |
+        | [@app-examples/hello_world](https://github.com/app-examples/hello_world) | 🚧      |
+    
       ---
 
     - #### Phase 3
