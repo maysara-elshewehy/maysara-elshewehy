@@ -135,7 +135,7 @@
         | ------------------------------------------------------------------------ | ------ |
         | [@repo-example/lib](https://github.com/repo-example/lib)                 | ✔️      |
         | [@repo-example/cli](https://github.com/repo-example/cli)                 | ✔️      |
-        | [@repo-example/server](https://github.com/repo-example/server)           | 🚧      |
+        | [@repo-example/server](https://github.com/repo-example/server)           | ✔️      |
         | [@repo-example/app](https://github.com/repo-example/app)                 | 🚧      |
         | --                                                                       | --     |
         | [@app-examples/hello_world](https://github.com/app-examples/hello_world) | 🚧      |
