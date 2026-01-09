@@ -18,30 +18,36 @@
 
     - #### [@minejs](https://github.com/minejs-org)
       > Pure logic. No frameworks. No lock-in.
+      > 
       > Works anywhere. Forever.
-
-    - #### [@minejsx](https://github.com/minejsx-org)
+      
       > JSX is syntax, not React's property.
+      > 
       > Fast runtime. Zero overhead.
 
     - #### [@mineui](https://github.com/mineui-org)
       > Context-aware CSS.
+      > 
       > Same component, different pages, automatic styling.
 
     - #### [@cruxjs](https://github.com/cruxjs-org)
       > Orchestrates without dictating.
+      > 
       > No magic. No "framework way."
 
     - #### [@cruxkit](https://github.com/cruxkit-org)
       > Every UI pattern you've built 1000 times.
+      > 
       > **This is the last time.**
 
     - #### [@cruxplug](https://github.com/cruxplug-org)
       > Backend modules with their own worlds.
+      > 
       > Plug in, don't bolt on.
 
     - #### [nezam.dev](https://nezam.dev)
       > Workspace for dreams too big for tools.
+      > 
       > `User → Workspace → Modules → ∞`
 
       ---
@@ -61,11 +67,9 @@
       | [@minejs/http](https://github.com/minejs-org/http)         | ✔️      |
       | [@minejs/db](https://github.com/minejs-org/db)             | ✔️      |
       | [@minejs/i18n](https://github.com/minejs-org/i18n)         | ✔️      |
+      | [@minejs/jsx](https://github.com/minejs-org/jsx)           | ✔️      |
       | [@minejs/browser](https://github.com/minejs-org/browser)   | ✔️      |
       | [@minejs/server](https://github.com/minejs-org/server)     | ✔️      |
-      | --                                                         | --     |
-      | [@minejsx/render](https://github.com/minejsx-org/render)   | ✔️      |
-      | [@minejsx/runtime](https://github.com/minejsx-org/runtime) | ✔️      |
 
       ---
 
