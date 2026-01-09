@@ -133,7 +133,7 @@
 
         | Package                                                                  | Status |
         | ------------------------------------------------------------------------ | ------ |
-        | [@repo-example/lib](https://github.com/repo-example/lib)                 | ✔️      |
+        | [@repo-example/lib](https://github.com/repo-example/lib)                 | 🚧      |
         | [@repo-example/cli](https://github.com/repo-example/cli)                 | 🚧      |
         | [@repo-example/server](https://github.com/repo-example/server)           | 🚧      |
         | [@repo-example/app](https://github.com/repo-example/app)                 | 🚧      |
