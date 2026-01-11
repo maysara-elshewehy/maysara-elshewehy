@@ -10,7 +10,7 @@
 
   > well...
   >
-  > over the past 25 years, I've proven to myself (quite convincingly) that I'm terrible at planning, so I'll just skip that part ..!
+  > over the past 25 years, I've proven to myself (quite convincingly) that I'm terrible at planning, so I'll just skip that part..!
 
   ---
 
