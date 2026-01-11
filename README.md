@@ -109,11 +109,6 @@
         | --                                                                       | --     |
         | [@app-examples/...](https://github.com/app-examples/)                    | 🚧     |
 
-        | Todo                                                                     | Status |
-        | ------------------------------------------------------------------------ | ------ |
-        | move and refactor `@minejs/i18n` to `@cruxjs/i18n`                       | 🚧     |
-        | move and refactor `@minejs/server` to `@cruxjs/server`                   | 🚧     |
-        
       ---
 
     - #### Phase 3
@@ -139,4 +134,4 @@
 
   <br>
 
-> updated: 10-01-2026
+> updated: 11-01-2026
