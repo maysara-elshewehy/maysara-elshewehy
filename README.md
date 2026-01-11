@@ -99,7 +99,9 @@
       > _Before moving forward, a **critical** reset is necessary._
 
       - #### Progress
-
+   
+        > e.g. `hmm init MyApp -t app`
+        
         | Package                                                                  | Status |
         | ------------------------------------------------------------------------ | ------ |
         | [@repo-example/lib](https://github.com/repo-example/lib)                 | ✔️     |
