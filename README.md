@@ -18,36 +18,36 @@
 
     - #### [@minejs](https://github.com/minejs-org)
       > Pure logic. No frameworks. No lock-in.
-      > 
+      >
       > Works anywhere. Forever.
-      
+
       > JSX is syntax, not React's property.
-      > 
+      >
       > Fast runtime. Zero overhead.
 
     - #### [@mineui](https://github.com/mineui-org)
       > Context-aware CSS.
-      > 
+      >
       > Same component, different pages, automatic styling.
 
     - #### [@cruxjs](https://github.com/cruxjs-org)
       > Orchestrates without dictating.
-      > 
+      >
       > No magic. No "framework way."
 
     - #### [@cruxkit](https://github.com/cruxkit-org)
       > Every UI pattern you've built 1000 times.
-      > 
+      >
       > **This is the last time.**
 
     - #### [@cruxplug](https://github.com/cruxplug-org)
       > Backend modules with their own worlds.
-      > 
+      >
       > Plug in, don't bolt on.
 
     - #### [nezam.dev](https://nezam.dev)
       > Workspace for dreams too big for tools.
-      > 
+      >
       > `User → Workspace → Modules → ∞`
 
       ---
@@ -57,19 +57,19 @@
     - #### Phase 1
       > started: 03-01-2026
 
-      | Package                                                    | Status |
-      | ---------------------------------------------------------- | ------ |
-      | [@minejs/cli](https://github.com/minejs-org/cli)           | ✔️      |
-      | [@minejs/hmm](https://github.com/minejs-org/hmm)           | ✔️      |
-      | [@minejs/signals](https://github.com/minejs-org/signals)   | ✔️      |
-      | [@minejs/hooks](https://github.com/minejs-org/hooks)       | ✔️      |
-      | [@minejs/store](https://github.com/minejs-org/store)       | ✔️      |
-      | [@minejs/http](https://github.com/minejs-org/http)         | ✔️      |
-      | [@minejs/db](https://github.com/minejs-org/db)             | ✔️      |
-      | [@minejs/i18n](https://github.com/minejs-org/i18n)         | ✔️      |
-      | [@minejs/jsx](https://github.com/minejs-org/jsx)           | ✔️      |
-      | [@minejs/browser](https://github.com/minejs-org/browser)   | ✔️      |
-      | [@minejs/server](https://github.com/minejs-org/server)     | ✔️      |
+      | Package                                                  | Status |
+      | -------------------------------------------------------- | ------ |
+      | [@minejs/cli](https://github.com/minejs-org/cli)         | ✔️      |
+      | [@minejs/hmm](https://github.com/minejs-org/hmm)         | ✔️      |
+      | [@minejs/signals](https://github.com/minejs-org/signals) | ✔️      |
+      | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️      |
+      | [@minejs/store](https://github.com/minejs-org/store)     | ✔️      |
+      | [@minejs/http](https://github.com/minejs-org/http)       | ✔️      |
+      | [@minejs/db](https://github.com/minejs-org/db)           | ✔️      |
+      | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️      |
+      | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️      |
+      | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️      |
+      | [@minejs/server](https://github.com/minejs-org/server)   | ✔️      |
 
       ---
 
@@ -82,10 +82,10 @@
       | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
       | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
       | --                                                     | --     |
-      | [@cruxkit/core](https://github.com/cruxkit-org/core)   | ✔️      |
+      | [@cruxkit/core](https://github.com/cruxkit-org/core)   | 🚧      |
       | --                                                     | --     |
-      | [@mineui/core](https://github.com/mineui-org/core)     | ✔️      |
-      | [@mineui/icons](https://github.com/mineui-org/icons)   | ✔️      |
+      | [@mineui/tokens](https://github.com/mineui-org/tokens) | 🚧      |
+      | [@mineui/..](#)                                        | 🚧     |
       | --                                                     | --     |
       | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
 
@@ -99,17 +99,17 @@
       > _Before moving forward, a **critical** reset is necessary._
 
       - #### Progress
-   
+
         > e.g. `hmm init MyApp -t app`
-        
-        | Package                                                                  | Status |
-        | ------------------------------------------------------------------------ | ------ |
-        | [@repo-example/lib](https://github.com/repo-example/lib)                 | ✔️     |
-        | [@repo-example/cli](https://github.com/repo-example/cli)                 | ✔️     |
-        | [@repo-example/server](https://github.com/repo-example/server)           | ✔️     |
-        | [@repo-example/app](https://github.com/repo-example/app)                 | 🚧     |
-        | --                                                                       | --     |
-        | [@app-examples/...](https://github.com/app-examples/)                    | 🚧     |
+
+        | Package                                                        | Status |
+        | -------------------------------------------------------------- | ------ |
+        | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
+        | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
+        | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
+        | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
+        | --                                                             | --     |
+        | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
 
       ---
 
