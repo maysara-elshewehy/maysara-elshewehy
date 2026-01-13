@@ -87,7 +87,7 @@
       | [@mineui/tokens](https://github.com/mineui-org/tokens)     | ✔️      |
       | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
       | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
-      | [@mineui/utils](https://github.com/mineui-org/utils)       | 🚧      |
+      | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
       | [@mineui/..](#)                                            | 🚧      |
       | --                                                         | --     |
       | [@cruxkit/...](https://github.com/cruxkit-org)             | 🚧      |
@@ -136,4 +136,4 @@
 
   <br>
 
-> updated: 13-01-2026
+> updated: 14-01-2026
