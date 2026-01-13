@@ -76,18 +76,21 @@
     - #### Phase 2
       > started: 06-01-2026
 
-      | Package                                                | Status |
-      | ------------------------------------------------------ | ------ |
-      | [@cruxjs/base](https://github.com/cruxjs-org/base)     | ✔️      |
-      | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
-      | --                                                     | --     |
-      | [@cruxkit/core](https://github.com/cruxkit-org/core)   | 🚧      |
-      | --                                                     | --     |
-      | [@mineui/tokens](https://github.com/mineui-org/tokens) | 🚧      |
-      | [@mineui/..](#)                                        | 🚧     |
-      | --                                                     | --     |
-      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
+      | Package                                                    | Status |
+      | ---------------------------------------------------------- | ------ |
+      | [@cruxjs/base](https://github.com/cruxjs-org/base)         | ✔️      |
+      | [@cruxjs/client](https://github.com/cruxjs-org/client)     | ✔️      |
+      | [@cruxjs/app](https://github.com/cruxjs-org/app)           | ✔️      |
+      | --                                                         | --     |
+      | [@cruxkit/core](https://github.com/cruxkit-org/core)       | 🚧      |
+      | --                                                         | --     |
+      | [@mineui/tokens](https://github.com/mineui-org/tokens)     | ✔️      |
+      | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
+      | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
+      | [@mineui/utils](https://github.com/mineui-org/utils)       | 🚧      |
+      | [@mineui/..](#)                                            | 🚧      |
+      | --                                                         | --     |
+      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)       | ✔️      |
 
     ---
 
