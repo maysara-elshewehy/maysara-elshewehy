@@ -100,18 +100,16 @@
       >
       > _Before moving forward, a **critical** reset is necessary._
 
-      - #### Progress
+      | Package                                                        | Status |
+      | -------------------------------------------------------------- | ------ |
+      | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
+      | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
+      | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
+      | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
+      | --                                                             | --     |
+      | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
 
-        > e.g. `hmm init MyApp -t app`
-
-        | Package                                                        | Status |
-        | -------------------------------------------------------------- | ------ |
-        | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
-        | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
-        | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
-        | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
-        | --                                                             | --     |
-        | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
+      > e.g. `hmm init MyApp -t app`
 
       ---
 
