@@ -25,23 +25,19 @@
       >
       > Fast runtime. Zero overhead.
 
-    - #### [@mineui](https://github.com/mineui-org)
-      > Context-aware CSS.
-      >
-      > Same component, different pages, automatic styling.
 
     - #### [@cruxjs](https://github.com/cruxjs-org)
       > Orchestrates without dictating.
       >
       > No magic. No "framework way".
 
-    - #### [@cruxkit](https://github.com/cruxkit-org)
+    - #### [@mineui](https://github.com/mineui-org) & [@cruxkit](https://github.com/cruxkit-org)
       > Every UI pattern you've built 1000 times.
       >
       > **This is the last time.**
 
-    - #### [@cruxplug](https://github.com/cruxplug-org)
-      > Backend modules with their own worlds.
+    - #### [@cruxplug](https://github.com/cruxplug-org) & [@cruxext](https://github.com/cruxext-org)
+      > Backend and Frontend modules with their own worlds.
       >
       > Plug in, don't bolt on.
 
@@ -90,6 +86,10 @@
       | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
       | --                                                         | --     |
       | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
+      | --                                                         | --     |
+      | [@cruxext/theme](https://github.com/cruxext-org/theme)     | 🚧      |
+      | [@cruxext/lang](https://github.com/cruxext-org/lang)       | 🚧      |
+      
     ---
 
     - #### Phase 3
