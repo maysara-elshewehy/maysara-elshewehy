@@ -89,7 +89,7 @@
       | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
       | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
       | --                                                         | --     |
-      | [@cruxkit/...](https://github.com/cruxkit-org)             | 🚧      |
+      | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
     ---
 
     - #### Phase 2.5: Reset & Rebuild
