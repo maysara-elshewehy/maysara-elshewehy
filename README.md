@@ -64,6 +64,7 @@
       | [@minejs/db](https://github.com/minejs-org/db)           | ✔️      |
       | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️      |
       | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️      |
+      | [@minejs/logger](https://github.com/minejs-org/logger)   | ✔️      |
       | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️      |
       | [@minejs/server](https://github.com/minejs-org/server)   | ✔️      |
 
