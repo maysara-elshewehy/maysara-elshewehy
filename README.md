@@ -33,7 +33,7 @@
     - #### [@cruxjs](https://github.com/cruxjs-org)
       > Orchestrates without dictating.
       >
-      > No magic. No "framework way."
+      > No magic. No "framework way".
 
     - #### [@cruxkit](https://github.com/cruxkit-org)
       > Every UI pattern you've built 1000 times.
@@ -92,12 +92,8 @@
       | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
     ---
 
-    - #### Phase 2.5: Reset & Rebuild
-      > started: 09-01-2026
-
-      > _The first attempt succeeded, but **perfection demands more**._
-      >
-      > _Before moving forward, a **critical** reset is necessary._
+    - #### Phase 3
+      > started: 14-01-2026
 
       | Package                                                        | Status |
       | -------------------------------------------------------------- | ------ |
@@ -112,7 +108,7 @@
 
       ---
 
-    - #### Phase 3
+    - #### Phase 4
       > not yet.
 
       <br>
