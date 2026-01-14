@@ -88,7 +88,6 @@
       | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
       | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
       | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
-      | [@mineui/..](#)                                            | 🚧      |
       | --                                                         | --     |
       | [@cruxkit/...](https://github.com/cruxkit-org)             | 🚧      |
     ---
