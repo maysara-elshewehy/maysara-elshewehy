@@ -88,7 +88,7 @@
       | --                                                         | --     |
       | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
       | --                                                         | --     |
-      | [@cruxext/theme](https://github.com/cruxext-org/theme)     | 🚧      |
+      | [@cruxext/theme](https://github.com/cruxext-org/theme)     | ✔️      |
       | [@cruxext/lang](https://github.com/cruxext-org/lang)       | 🚧      |
       
     ---
@@ -132,4 +132,4 @@
 
   <br>
 
-> updated: 14-01-2026
+> updated: 15-01-2026
