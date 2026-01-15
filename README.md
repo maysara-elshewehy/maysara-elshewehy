@@ -89,7 +89,6 @@
       | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
       | --                                                         | --     |
       | [@cruxext/theme](https://github.com/cruxext-org/theme)     | ✔️      |
-      | [@cruxext/lang](https://github.com/cruxext-org/lang)       | 🚧      |
       
     ---
 
