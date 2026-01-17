@@ -73,47 +73,51 @@
     - #### Phase 2
       > started: 06-01-2026
 
-      | Package                                                      | Status |
-      | ------------------------------------------------------------ | ------ |
-      | [@cruxjs/base](https://github.com/cruxjs-org/base)           | ✔️      |
-      | [@cruxjs/client](https://github.com/cruxjs-org/client)       | ✔️      |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)             | ✔️      |
-      | --                                                           | --     |
-      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)         | ✔️      |
-      | --                                                           | --     |
-      | [@mineui/tokens](https://github.com/mineui-org/tokens)       | ✔️      |
-      | [@mineui/semantic](https://github.com/mineui-org/semantic)   | ✔️      |
-      | [@mineui/reset](https://github.com/mineui-org/reset)         | ✔️      |
-      | [@mineui/utils](https://github.com/mineui-org/utils)         | ✔️      |
-      | --                                                           | --     |
-      | [@cruxext/theme](https://github.com/cruxext-org/theme)       | ✔️      |
-      | --                                                           | --     |
-      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | ✔️      |
-      | [@cruxkit/text](https://github.com/cruxkit-org/text)         | ✔️      |
-      | [@cruxkit/stack](https://github.com/cruxkit-org/stack)       | 🚧      |
-      | [@cruxkit/button](https://github.com/cruxkit-org/button)     | 🚧      |
-      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
-      | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧      |
 
-    ---
+      - #### Framework
 
-    - #### Phase 3
-      > started: 14-01-2026
+        | Package                                                | Status |
+        | ------------------------------------------------------ | ------ |
+        | [@cruxjs/base](https://github.com/cruxjs-org/base)     | ✔️      |
+        | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
+        | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
+        | --                                                     | --     |
+        | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
 
-      | Package                                                        | Status |
-      | -------------------------------------------------------------- | ------ |
-      | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
-      | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
-      | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
-      | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
-      | --                                                             | --     |
-      | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
+      - #### UI
 
-      > e.g. `hmm init MyApp -t app`
+        | Package                                                        | Status |
+        | -------------------------------------------------------------- | ------ |
+        | [@mineui/tokens](https://github.com/mineui-org/tokens)         | ✔️      |
+        | [@mineui/semantic](https://github.com/mineui-org/semantic)     | ✔️      |
+        | [@mineui/reset](https://github.com/mineui-org/reset)           | ✔️      |
+        | [@mineui/utils](https://github.com/mineui-org/utils)           | ✔️      |
+        | --                                                             | --     |
+        | [@cruxext/theme](https://github.com/cruxext-org/theme)         | ✔️      |
+        | --                                                             | --     |
+        | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
+        | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
+        | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
+        | [@cruxkit/button](https://github.com/cruxkit-org/button)       | 🚧      |
+        | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | 🚧      |
+        | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
+
+      - #### Package/Project Manager
+
+        | Package                                                        | Status |
+        | -------------------------------------------------------------- | ------ |
+        | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
+        | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
+        | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
+        | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
+        | --                                                             | --     |
+        | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
+
+        > e.g. `hmm init MyApp -t app`
 
       ---
 
-    - #### Phase 4
+    - #### Phase 3
 
       > _not yet._
 
