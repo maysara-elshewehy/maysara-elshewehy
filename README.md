@@ -116,10 +116,16 @@
 
       | Package                                                          | Status |
       | ---------------------------------------------------------------- | ------ |
-      | [@cruxkit-org/icon](https://github.com/cruxkit-org/icon)         | 🚧      |
-      | [@cruxkit-org/button](https://github.com/cruxkit-org/button)     | 🚧      |
-      | [@cruxkit-org/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
-      | [@cruxkit-org/...](https://github.com/cruxkit-org)               | 🚧      |
+      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | 🚧      |
+      | [@cruxkit/button](https://github.com/cruxkit-org/button)     | 🚧      |
+      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
+      | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧      |
+
+      ---
+
+    - #### Phase 5
+
+      > _not yet._
 
       <br>
 
