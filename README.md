@@ -98,7 +98,7 @@
         | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
         | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
         | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
-        | [@cruxkit/button](https://github.com/cruxkit-org/button)       | 🚧      |
+        | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
         | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | 🚧      |
         | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
 
