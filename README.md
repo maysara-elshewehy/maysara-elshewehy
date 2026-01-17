@@ -73,22 +73,27 @@
     - #### Phase 2
       > started: 06-01-2026
 
-      | Package                                                    | Status |
-      | ---------------------------------------------------------- | ------ |
-      | [@cruxjs/base](https://github.com/cruxjs-org/base)         | ✔️      |
-      | [@cruxjs/client](https://github.com/cruxjs-org/client)     | ✔️      |
-      | [@cruxjs/app](https://github.com/cruxjs-org/app)           | ✔️      |
-      | --                                                         | --     |
-      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)       | ✔️      |
-      | --                                                         | --     |
-      | [@mineui/tokens](https://github.com/mineui-org/tokens)     | ✔️      |
-      | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
-      | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
-      | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
-      | --                                                         | --     |
-      | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
-      | --                                                         | --     |
-      | [@cruxext/theme](https://github.com/cruxext-org/theme)     | ✔️      |
+      | Package                                                      | Status |
+      | ------------------------------------------------------------ | ------ |
+      | [@cruxjs/base](https://github.com/cruxjs-org/base)           | ✔️      |
+      | [@cruxjs/client](https://github.com/cruxjs-org/client)       | ✔️      |
+      | [@cruxjs/app](https://github.com/cruxjs-org/app)             | ✔️      |
+      | --                                                           | --     |
+      | [@cruxplug/spa](https://github.com/cruxplug-org/spa)         | ✔️      |
+      | --                                                           | --     |
+      | [@mineui/tokens](https://github.com/mineui-org/tokens)       | ✔️      |
+      | [@mineui/semantic](https://github.com/mineui-org/semantic)   | ✔️      |
+      | [@mineui/reset](https://github.com/mineui-org/reset)         | ✔️      |
+      | [@mineui/utils](https://github.com/mineui-org/utils)         | ✔️      |
+      | --                                                           | --     |
+      | [@cruxext/theme](https://github.com/cruxext-org/theme)       | ✔️      |
+      | --                                                           | --     |
+      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | ✔️      |
+      | [@cruxkit/text](https://github.com/cruxkit-org/text)         | 🚧      |
+      | [@cruxkit/stack](https://github.com/cruxkit-org/stack)       | 🚧      |
+      | [@cruxkit/button](https://github.com/cruxkit-org/button)     | 🚧      |
+      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
+      | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧      |
 
     ---
 
@@ -109,23 +114,6 @@
       ---
 
     - #### Phase 4
-
-      > started: 17-01-2026
-
-      > well.. everything seems perfect now, but i think i'm going to create what I call a `"UI Killer"`:
-
-      | Package                                                          | Status |
-      | ---------------------------------------------------------------- | ------ |
-      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)             | ✔️      |
-      | [@cruxkit/text](https://github.com/cruxkit-org/text)             | 🚧      |
-      | [@cruxkit/stack](https://github.com/cruxkit-org/stack)           | 🚧      |
-      | [@cruxkit/button](https://github.com/cruxkit-org/button)         | 🚧      |
-      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)     | 🚧      |
-      | [@cruxkit/...](https://github.com/cruxkit-org)                   | 🚧      |
-
-      ---
-
-    - #### Phase 5
 
       > _not yet._
 
