@@ -116,10 +116,10 @@
 
       | Package                                                          | Status |
       | ---------------------------------------------------------------- | ------ |
-      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | 🚧      |
-      | [@cruxkit/button](https://github.com/cruxkit-org/button)     | 🚧      |
-      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
-      | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧      |
+      | [@cruxkit/icon](https://github.com/cruxkit-org/icon)             | ✔️      |
+      | [@cruxkit/button](https://github.com/cruxkit-org/button)         | 🚧      |
+      | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)     | 🚧      |
+      | [@cruxkit/...](https://github.com/cruxkit-org)                   | 🚧      |
 
       ---
 
