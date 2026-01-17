@@ -89,7 +89,7 @@
       | [@cruxkit/core](https://github.com/cruxkit-org/core)       | ✔️      |
       | --                                                         | --     |
       | [@cruxext/theme](https://github.com/cruxext-org/theme)     | ✔️      |
-      
+
     ---
 
     - #### Phase 3
@@ -109,7 +109,17 @@
       ---
 
     - #### Phase 4
-      > not yet.
+
+      > started: 17-01-2026
+
+      > well.. everything seems perfect now, but i think i'm going to create what I call a `"UI Killer"`:
+
+      | Package                                                          | Status |
+      | ---------------------------------------------------------------- | ------ |
+      | [@cruxkit-org/icon](https://github.com/cruxkit-org/icon)         | 🚧      |
+      | [@cruxkit-org/button](https://github.com/cruxkit-org/button)     | 🚧      |
+      | [@cruxkit-org/dropdown](https://github.com/cruxkit-org/dropdown) | 🚧      |
+      | [@cruxkit-org/...](https://github.com/cruxkit-org)               | 🚧      |
 
       <br>
 
@@ -131,4 +141,4 @@
 
   <br>
 
-> updated: 15-01-2026
+> updated: 17-01-2026
