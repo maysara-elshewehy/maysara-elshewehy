@@ -99,7 +99,8 @@
         | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
         | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
         | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
-        | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | 🚧      |
+        | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
+        | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | 🚧      |
         | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
 
       - #### Package/Project Manager
