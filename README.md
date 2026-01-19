@@ -94,6 +94,8 @@
         | [@mineui/utils](https://github.com/mineui-org/utils)           | ✔️      |
         | --                                                             | --     |
         | [@cruxext/theme](https://github.com/cruxext-org/theme)         | ✔️      |
+        | [@cruxext/toast](https://github.com/cruxext-org/toast)         | 🚧      |
+        | [@cruxext/loader](https://github.com/cruxext-org/loader)       | 🚧      |
         | --                                                             | --     |
         | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
         | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
@@ -101,6 +103,11 @@
         | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
         | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
         | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
+        | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | 🚧      |
+        | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | 🚧      |
+        | [@cruxkit/center](https://github.com/cruxkit-org/center)       | 🚧      |
+        | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
+        | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
         | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
 
       - #### Package/Project Manager
@@ -142,4 +149,4 @@
 
   <br>
 
-> updated: 18-01-2026
+> updated: 19-01-2026
