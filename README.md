@@ -94,16 +94,18 @@
 
           | Package                                                        | Status |
           | -------------------------------------------------------------- | ------ |
-          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
-          | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
           | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
-          | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
-          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
-          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
-          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
-          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | ✔️      |
           | [@cruxkit/center](https://github.com/cruxkit-org/center)       | ✔️      |
+          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | ✔️      |
+          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
           | [@cruxkit/overlay](https://github.com/cruxkit-org/overlay)     | 🚧      |
+          | --                                                             | --     |
+          | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
+          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
+          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
+          | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
+          | --                                                             | --     |
+          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
           | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
           | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
           | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
