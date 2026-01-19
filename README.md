@@ -100,7 +100,7 @@
           | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
           | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
           | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
-          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | 🚧      |
+          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
           | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | 🚧      |
           | [@cruxkit/center](https://github.com/cruxkit-org/center)       | 🚧      |
           | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
