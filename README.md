@@ -73,7 +73,6 @@
     - #### Phase 2
       > started: 06-01-2026
 
-
       - #### Framework
 
         | Package                                                | Status |
@@ -81,34 +80,46 @@
         | [@cruxjs/base](https://github.com/cruxjs-org/base)     | ✔️      |
         | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
         | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
-        | --                                                     | --     |
-        | [@cruxplug/spa](https://github.com/cruxplug-org/spa)   | ✔️      |
 
       - #### UI
 
-        | Package                                                        | Status |
-        | -------------------------------------------------------------- | ------ |
-        | [@mineui/tokens](https://github.com/mineui-org/tokens)         | ✔️      |
-        | [@mineui/semantic](https://github.com/mineui-org/semantic)     | ✔️      |
-        | [@mineui/reset](https://github.com/mineui-org/reset)           | ✔️      |
-        | [@mineui/utils](https://github.com/mineui-org/utils)           | ✔️      |
-        | --                                                             | --     |
-        | [@cruxext/theme](https://github.com/cruxext-org/theme)         | ✔️      |
-        | [@cruxext/toast](https://github.com/cruxext-org/toast)         | 🚧      |
-        | [@cruxext/loader](https://github.com/cruxext-org/loader)       | 🚧      |
-        | --                                                             | --     |
-        | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
-        | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
-        | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
-        | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
-        | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
-        | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
-        | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | 🚧      |
-        | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | 🚧      |
-        | [@cruxkit/center](https://github.com/cruxkit-org/center)       | 🚧      |
-        | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
-        | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
-        | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
+        | Package                                                    | Status |
+        | ---------------------------------------------------------- | ------ |
+        | [@mineui/tokens](https://github.com/mineui-org/tokens)     | ✔️      |
+        | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
+        | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
+        | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
+
+        - #### Kit
+
+          | Package                                                        | Status |
+          | -------------------------------------------------------------- | ------ |
+          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
+          | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
+          | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
+          | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
+          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
+          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
+          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | 🚧      |
+          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | 🚧      |
+          | [@cruxkit/center](https://github.com/cruxkit-org/center)       | 🚧      |
+          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
+          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
+          | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
+
+      - #### Plugins
+
+        | Package                                              | Status |
+        | ---------------------------------------------------- | ------ |
+        | [@cruxplug/spa](https://github.com/cruxplug-org/spa) | ✔️      |
+
+      - #### Extensions
+
+        | Package                                                  | Status |
+        | -------------------------------------------------------- | ------ |
+        | [@cruxext/theme](https://github.com/cruxext-org/theme)   | ✔️      |
+        | [@cruxext/toast](https://github.com/cruxext-org/toast)   | 🚧      |
+        | [@cruxext/loader](https://github.com/cruxext-org/loader) | 🚧      |
 
       - #### Package/Project Manager
 
