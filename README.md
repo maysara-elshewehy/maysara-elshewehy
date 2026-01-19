@@ -102,7 +102,8 @@
           | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
           | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
           | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | ✔️      |
-          | [@cruxkit/center](https://github.com/cruxkit-org/center)       | 🚧      |
+          | [@cruxkit/center](https://github.com/cruxkit-org/center)       | ✔️      |
+          | [@cruxkit/overlay](https://github.com/cruxkit-org/overlay)     | 🚧      |
           | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
           | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
           | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
