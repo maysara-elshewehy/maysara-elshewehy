@@ -98,7 +98,7 @@
           | [@cruxkit/center](https://github.com/cruxkit-org/center)       | ✔️      |
           | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | ✔️      |
           | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
-          | [@cruxkit/overlay](https://github.com/cruxkit-org/overlay)     | 🚧      |
+          | [@cruxkit/overlay](https://github.com/cruxkit-org/overlay)     | ✔️      |
           | --                                                             | --     |
           | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
           | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
@@ -163,4 +163,4 @@
 
   <br>
 
-> updated: 19-01-2026
+> updated: 21-01-2026
