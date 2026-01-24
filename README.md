@@ -106,7 +106,7 @@
           | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
           | --                                                             | --     |
           | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
-          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | 🚧      |
+          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | ✔️      |
           | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
           | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
 
@@ -121,7 +121,7 @@
         | Package                                                  | Status |
         | -------------------------------------------------------- | ------ |
         | [@cruxext/theme](https://github.com/cruxext-org/theme)   | ✔️      |
-        | [@cruxext/toast](https://github.com/cruxext-org/toast)   | 🚧      |
+        | [@cruxext/toast](https://github.com/cruxext-org/toast)   | ✔️      |
         | [@cruxext/loader](https://github.com/cruxext-org/loader) | 🚧      |
 
       - #### Package/Project Manager
@@ -163,4 +163,4 @@
 
   <br>
 
-> updated: 21-01-2026
+> updated: 24-01-2026
