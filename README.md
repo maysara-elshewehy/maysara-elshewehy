@@ -107,8 +107,7 @@
           | --                                                             | --     |
           | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
           | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | ✔️      |
-          | [@cruxkit/spinner](https://github.com/cruxkit-org/spinner)     | 🚧      |
-          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | 🚧      |
+          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | ✔️      |
           | [@cruxkit/modal](https://github.com/cruxkit-org/modal)         | 🚧      |
           | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
 
@@ -124,7 +123,9 @@
         | -------------------------------------------------------- | ------ |
         | [@cruxext/theme](https://github.com/cruxext-org/theme)   | ✔️      |
         | [@cruxext/toast](https://github.com/cruxext-org/toast)   | ✔️      |
-        | [@cruxext/loader](https://github.com/cruxext-org/loader) | 🚧      |
+        | [@cruxext/loader](https://github.com/cruxext-org/loader) | ✔️      |
+        | [@cruxext/modal](https://github.com/cruxext-org/modal)   | 🚧      |
+        | [@cruxext/...](https://github.com/cruxext-org)           | 🚧      |
 
       - #### Package/Project Manager
 
