@@ -101,7 +101,7 @@
           | @cruxkit/divider                                             | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | @cruxkit/overlay                                             | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | --                                                           | --                                                           |
-          | [@cruxkit/text](https://github.com/cruxkit-org/text)         | ✔️                                                            |
+          | [@cruxkit/text](https://github.com/cruxkit-org/text)         | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | ✔️                                                            |
           | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | ✔️                                                            |
           | [@cruxkit/button](https://github.com/cruxkit-org/button)     | ✔️                                                            |
