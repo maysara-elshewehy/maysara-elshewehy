@@ -53,20 +53,21 @@
     - #### Phase 1
       > started: 03-01-2026
 
-      | Package                                                  | Status |
-      | -------------------------------------------------------- | ------ |
-      | [@minejs/cli](https://github.com/minejs-org/cli)         | ✔️      |
-      | [@minejs/hmm](https://github.com/minejs-org/hmm)         | ✔️      |
-      | [@minejs/signals](https://github.com/minejs-org/signals) | ✔️      |
-      | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️      |
-      | [@minejs/store](https://github.com/minejs-org/store)     | ✔️      |
-      | [@minejs/http](https://github.com/minejs-org/http)       | ✔️      |
-      | [@minejs/db](https://github.com/minejs-org/db)           | ✔️      |
-      | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️      |
-      | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️      |
-      | [@minejs/logger](https://github.com/minejs-org/logger)   | ✔️      |
-      | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️      |
-      | [@minejs/server](https://github.com/minejs-org/server)   | ✔️      |
+      | Package                                                  | Status                     |
+      | -------------------------------------------------------- | -------------------------- |
+      | [@minejs/cli](https://github.com/minejs-org/cli)         | ✔️                          |
+      | [@minejs/hmm](https://github.com/minejs-org/hmm)         | ✔️                          |
+      | [@minejs/signals](https://github.com/minejs-org/signals) | ✔️                          |
+      | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️                          |
+      | [@minejs/store](https://github.com/minejs-org/store)     | ✔️                          |
+      | [@minejs/http](https://github.com/minejs-org/http)       | ✔️                          |
+      | [@minejs/db](https://github.com/minejs-org/db)           | ✔️                          |
+      | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️                          |
+      | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️                          |
+      | [@minejs/logger](https://github.com/minejs-org/logger)   | ✔️                          |
+      | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️                          |
+      | @minejs/router                                           | Merged with @cruxjs/client |
+      | [@minejs/server](https://github.com/minejs-org/server)   | ✔️                          |
 
       ---
 
@@ -92,24 +93,24 @@
 
         - #### Kit
 
-          | Package                                                        | Status |
-          | -------------------------------------------------------------- | ------ |
-          | [@cruxkit/container](https://github.com/cruxkit-org/container) | ✔️      |
-          | [@cruxkit/center](https://github.com/cruxkit-org/center)       | ✔️      |
-          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)       | ✔️      |
-          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)     | ✔️      |
-          | [@cruxkit/overlay](https://github.com/cruxkit-org/overlay)     | ✔️      |
-          | --                                                             | --     |
-          | [@cruxkit/text](https://github.com/cruxkit-org/text)           | ✔️      |
-          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)           | ✔️      |
-          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown)   | ✔️      |
-          | [@cruxkit/button](https://github.com/cruxkit-org/button)       | ✔️      |
-          | --                                                             | --     |
-          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)       | ✔️      |
-          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)         | ✔️      |
-          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)       | ✔️      |
-          | [@cruxkit/modal](https://github.com/cruxkit-org/modal)         | 🚧      |
-          | [@cruxkit/...](https://github.com/cruxkit-org)                 | 🚧      |
+          | Package                                                      | Status                  |
+          | ------------------------------------------------------------ | ----------------------- |
+          | @cruxkit/container                                           | Merged with @minejs/jsx |
+          | @cruxkit/center                                              | Merged with @minejs/jsx |
+          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)     | ✔️                       |
+          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)   | ✔️                       |
+          | @cruxkit/overlay                                             | Merged with @minejs/jsx |
+          | --                                                           | --                      |
+          | [@cruxkit/text](https://github.com/cruxkit-org/text)         | ✔️                       |
+          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | ✔️                       |
+          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | ✔️                       |
+          | [@cruxkit/button](https://github.com/cruxkit-org/button)     | ✔️                       |
+          | --                                                           | --                      |
+          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)     | ✔️                       |
+          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)       | ✔️                       |
+          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)     | ✔️                       |
+          | [@cruxkit/modal](https://github.com/cruxkit-org/modal)       | 🚧                       |
+          | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧                       |
 
       - #### Plugins
 
@@ -166,4 +167,4 @@
 
   <br>
 
-> updated: 25-01-2026
+> updated: 26-01-2026
