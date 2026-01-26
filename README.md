@@ -97,8 +97,8 @@
           | ------------------------------------------------------------ | ------------------------------------------------------------ |
           | @cruxkit/container                                           | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | @cruxkit/center                                              | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)     | ✔️                                                            |
-          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)   | ✔️                                                            |
+          | [@cruxkit/spacer](https://github.com/cruxkit-org/spacer)     | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
+          | [@cruxkit/divider](https://github.com/cruxkit-org/divider)   | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | @cruxkit/overlay                                             | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
           | --                                                           | --                                                           |
           | [@cruxkit/text](https://github.com/cruxkit-org/text)         | ✔️                                                            |
