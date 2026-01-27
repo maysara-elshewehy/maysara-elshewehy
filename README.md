@@ -146,7 +146,7 @@
     - `lib` - Clean project structure
     - `cli` - CLI application (@minejs/cli ready)
     - `server` - Backend API (@minejs/server ready)
-    - `app` - Full web app (@mineweb ready) **⭐**
+    - `web` - Full web app (@mineweb ready) **⭐**
 
     ---
 
