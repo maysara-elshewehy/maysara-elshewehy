@@ -6,40 +6,55 @@
 
 <br>
 
-- ## Plan {A}
+- ## Plan {A} : `CruxJS` `[R.I.P]`
 
-  > well...
+  > _started: 02-01-2026_
+
+  ![cover](https://raw.githubusercontent.com/maysara-elshewehy/maysara-elshewehy/refs/heads/main/plans/profile-cover.png)
+
+  > I've deleted more code than most developers will ever write.
   >
-  > over the past 25 years, I've proven to myself (quite convincingly) that I'm terrible at planning, so I'll just skip that part..!
+  > Not from incompetence. From standards no human can sustain.
+  >
+  > OCPD doesn't let you ship imperfect work. It makes you a prisoner of your own mind.
 
-  ---
+  > _destroyed: 26-01-2026_
+
+- ## Plan {B} : `MineJS`
+
+  > _started: 27-01-2026_
+
+  > Well.. this time, the architecture defeats the curse.
+  >
+  > **Three scopes. Clear separation. Zero confusion.**
+  >
+  > @minejs = Runtime. @minecss = Styling. @mineweb = Framework.
+  >
+  > **This is how you build forever.**
 
   - ### Philosophy
 
     - #### [@minejs](https://github.com/minejs-org)
       > Pure logic. No frameworks. No lock-in.
       >
-      > Works anywhere. Forever.
+      > Reusable JS primitives. Works anywhere. Forever.
 
-      > JSX is syntax, not React's property.
+    - #### [@minecss](https://github.com/minecss-org)
+      > Tailwind... but better.
       >
-      > Fast runtime. Zero overhead.
+      > Tokens. Semantics. Utils. Zero config.
 
-
-    - #### [@cruxjs](https://github.com/cruxjs-org)
-      > Orchestrates without dictating.
+    - #### [@mineweb](https://github.com/mineweb-org)
+      > The framework that gets out of your way.
       >
-      > No magic. No "framework way".
-
-    - #### [@mineui](https://github.com/mineui-org) & [@cruxkit](https://github.com/cruxkit-org)
-      > Every UI pattern you've built 1000 times.
+      > No CSS. No HTML. No icons. No bloat.
       >
-      > **This is the last time.**
+      > **< 300 KB. Always.**
 
-    - #### [@cruxplug](https://github.com/cruxplug-org) & [@cruxext](https://github.com/cruxext-org)
-      > Backend and Frontend modules with their own worlds.
+    - #### [hmm](https://github.com/minejs-org/hmm)
+      > `hmm init MyApp -t app`
       >
-      > Plug in, don't bolt on.
+      > Setup once. Build forever.
 
     - #### [nezam.dev](https://nezam.dev)
       > Workspace for dreams too big for tools.
@@ -48,123 +63,93 @@
 
       ---
 
-  - ### Progress
+  - ### Structure
 
-    - #### Phase 1
-      > started: 03-01-2026
+    - #### @minejs (Runtime)
+      > Core primitives - reusable everywhere
 
-      | Package                                                  | Status                                                             |
-      | -------------------------------------------------------- | ------------------------------------------------------------------ |
-      | [@minejs/cli](https://github.com/minejs-org/cli)         | ✔️                                                                  |
-      | [@minejs/hmm](https://github.com/minejs-org/hmm)         | ✔️                                                                  |
-      | [@minejs/signals](https://github.com/minejs-org/signals) | ✔️                                                                  |
-      | [@minejs/hooks](https://github.com/minejs-org/hooks)     | ✔️                                                                  |
-      | [@minejs/store](https://github.com/minejs-org/store)     | ✔️                                                                  |
-      | [@minejs/http](https://github.com/minejs-org/http)       | ✔️                                                                  |
-      | [@minejs/db](https://github.com/minejs-org/db)           | ✔️                                                                  |
-      | [@minejs/i18n](https://github.com/minejs-org/i18n)       | ✔️                                                                  |
-      | [@minejs/jsx](https://github.com/minejs-org/jsx)         | ✔️                                                                  |
-      | [@minejs/logger](https://github.com/minejs-org/logger)   | ✔️                                                                  |
-      | [@minejs/browser](https://github.com/minejs-org/browser) | ✔️                                                                  |
-      | @minejs/router                                           | Merged with [@cruxjs/client](https://github.com/cruxjs-org/client) |
-      | [@minejs/server](https://github.com/minejs-org/server)   | ✔️                                                                  |
+      | Package         | Purpose              |
+      | --------------- | -------------------- |
+      | @minejs/signals | Reactive primitives  |
+      | @minejs/hooks   | React-like hooks     |
+      | @minejs/store   | State management     |
+      | @minejs/http    | HTTP client          |
+      | @minejs/db      | Database utilities   |
+      | @minejs/i18n    | Internationalization |
+      | @minejs/logger  | Logging system       |
+      | @minejs/browser | Browser utilities    |
+      | @minejs/server  | Server runtime       |
+      | @minejs/cli     | CLI framework        |
+      | @minejs/hmm     | Package manager      |
 
       ---
 
-    - #### Phase 2
-      > started: 06-01-2026
+    - #### @minecss (Styling)
+      > Tailwind killer - but simpler
 
-      - #### Framework
-
-        | Package                                                | Status |
-        | ------------------------------------------------------ | ------ |
-        | [@cruxjs/base](https://github.com/cruxjs-org/base)     | ✔️      |
-        | [@cruxjs/client](https://github.com/cruxjs-org/client) | ✔️      |
-        | [@cruxjs/app](https://github.com/cruxjs-org/app)       | ✔️      |
-
-      - #### UI
-
-        | Package                                                    | Status |
-        | ---------------------------------------------------------- | ------ |
-        | [@mineui/tokens](https://github.com/mineui-org/tokens)     | ✔️      |
-        | [@mineui/semantic](https://github.com/mineui-org/semantic) | ✔️      |
-        | [@mineui/reset](https://github.com/mineui-org/reset)       | ✔️      |
-        | [@mineui/utils](https://github.com/mineui-org/utils)       | ✔️      |
-
-        - #### Kit
-
-          | Package                                                      | Status                                                       |
-          | ------------------------------------------------------------ | ------------------------------------------------------------ |
-          | @cruxkit/container                                           | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | @cruxkit/center                                              | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | @cruxkit/spacer                                              | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | @cruxkit/divider                                             | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | @cruxkit/overlay                                             | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | --                                                           | --                                                           |
-          | @cruxkit/text                                                | Merged with [@minejs/jsx](https://github.com/minejs-org/jsx) |
-          | [@cruxkit/icon](https://github.com/cruxkit-org/icon)         | ✔️                                                            |
-          | [@cruxkit/dropdown](https://github.com/cruxkit-org/dropdown) | ✔️                                                            |
-          | [@cruxkit/button](https://github.com/cruxkit-org/button)     | ✔️                                                            |
-          | --                                                           | --                                                           |
-          | [@cruxkit/navbar](https://github.com/cruxkit-org/navbar)     | ✔️                                                            |
-          | [@cruxkit/toast](https://github.com/cruxkit-org/toast)       | ✔️                                                            |
-          | [@cruxkit/loader](https://github.com/cruxkit-org/loader)     | ✔️                                                            |
-          | [@cruxkit/modal](https://github.com/cruxkit-org/modal)       | 🚧                                                            |
-          | [@cruxkit/...](https://github.com/cruxkit-org)               | 🚧                                                            |
-
-      - #### Plugins
-
-        | Package                                              | Status |
-        | ---------------------------------------------------- | ------ |
-        | [@cruxplug/spa](https://github.com/cruxplug-org/spa) | ✔️      |
-
-      - #### Extensions
-
-        | Package                                                  | Status |
-        | -------------------------------------------------------- | ------ |
-        | [@cruxext/theme](https://github.com/cruxext-org/theme)   | ✔️      |
-        | [@cruxext/toast](https://github.com/cruxext-org/toast)   | ✔️      |
-        | [@cruxext/loader](https://github.com/cruxext-org/loader) | ✔️      |
-        | [@cruxext/modal](https://github.com/cruxext-org/modal)   | 🚧      |
-        | [@cruxext/...](https://github.com/cruxext-org)           | 🚧      |
-
-      - #### Package/Project Manager
-
-        | Package                                                        | Status |
-        | -------------------------------------------------------------- | ------ |
-        | [@repo-example/lib](https://github.com/repo-example/lib)       | ✔️      |
-        | [@repo-example/cli](https://github.com/repo-example/cli)       | ✔️      |
-        | [@repo-example/server](https://github.com/repo-example/server) | ✔️      |
-        | [@repo-example/app](https://github.com/repo-example/app)       | 🚧      |
-        | --                                                             | --     |
-        | [@app-examples/...](https://github.com/app-examples/)          | 🚧      |
-
-        > e.g. `hmm init MyApp -t app`
+      | Package           | Purpose         |
+      | ----------------- | --------------- |
+      | @minecss/tokens   | Design tokens   |
+      | @minecss/semantic | Semantic layer  |
+      | @minecss/reset    | CSS reset       |
+      | @minecss/utils    | Utility classes |
 
       ---
 
-    - #### Phase 3
+    - #### @mineweb (Framework)
+      > Everything you need. Nothing you don't.
 
-      > _not yet._
+      | Package             | Purpose                                  |
+      | ------------------- | ---------------------------------------- |
+      | @mineweb/jsx        | JSX runtime + primitives                 |
+      | @mineweb/components | UI components (Button, Navbar, Modal...) |
+      | @mineweb/icons      | Icon system (tree-shakeable)             |
+      | @mineweb/client     | Client-side framework                    |
+      | @mineweb/app        | Full-stack framework                     |
+      | @mineweb/plugins    | Plugins (SPA, auth...)                   |
+      | @mineweb/extensions | Extensions (theme, toast...)             |
 
-      <br>
+      ---
 
-- ## The Truth
+  - ### The Killer Feature
 
-  > I've deleted more code than most developers will ever write.
-  >
-  > Not from incompetence. From standards no human can sustain.
-  >
-  > OCPD doesn't let you ship imperfect work. It makes you a prisoner of your own mind.
+    > **Complete website < 300 KB**
 
-  > But this time, the architecture defeats the curse.
-  >
-  > **Modular by design. Perfect in isolation. Chaos-proof by nature.**
-  >
-  > Each package stands alone. Each module is complete. The system never becomes overwhelming.
-  >
-  > **This is how you build forever.**
+    ```
+    JavaScript bundle: ~130 KB
+    ├── Framework
+    ├── Used components only
+    └── Used icons only (tree-shaken!)
+
+    CSS bundle: ~130 KB
+    └── All @minecss utilities
+
+    Total: < 300 KB (production-ready!)
+    ```
+
+    ---
+
+  - ### Developer Experience
+
+    ```bash
+    # Install
+    bun i @minejs/hmm
+
+    # Create project
+    hmm init MyApp -t app
+
+    # Start coding (NO CSS, NO HTML, NO ICONS!)
+    # Everything just works.
+    ```
+
+    **Templates:**
+    - `lib` - Clean project structure
+    - `cli` - CLI application (@minejs/cli ready)
+    - `server` - Backend API (@minejs/server ready)
+    - `app` - Full web app (@mineweb ready) **⭐**
+
+    ---
 
   <br>
 
-> updated: 26-01-2026
+> updated: 27-01-2026
