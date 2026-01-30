@@ -68,46 +68,45 @@
     - #### @minejs (Runtime)
       > Core primitives - reusable everywhere
 
-      | Package         | Purpose              |
-      | --------------- | -------------------- |
-      | @minejs/signals | Reactive primitives  |
-      | @minejs/hooks   | React-like hooks     |
-      | @minejs/store   | State management     |
-      | @minejs/http    | HTTP client          |
-      | @minejs/db      | Database utilities   |
-      | @minejs/i18n    | Internationalization |
-      | @minejs/logger  | Logging system       |
-      | @minejs/browser | Browser utilities    |
-      | @minejs/server  | Server runtime       |
-      | @minejs/cli     | CLI framework        |
-      | @minejs/hmm     | Package manager      |
+      | Package         | Purpose              | Status |
+      | --------------- | -------------------- | ------ |
+      | @minejs/signal  | Reactive primitives  | 🚧      |
+      | @minejs/store   | State management     | 🚧      |
+      | @minejs/http    | HTTP client          | 🚧      |
+      | @minejs/db      | Database utilities   | 🚧      |
+      | @minejs/i18n    | Internationalization | 🚧      |
+      | @minejs/logger  | Logging system       | 🚧      |
+      | @minejs/browser | Browser utilities    | 🚧      |
+      | @minejs/server  | Server runtime       | 🚧      |
+      | @minejs/cli     | CLI framework        | 🚧      |
+      | @minejs/hmm     | Package manager      | 🚧      |
 
       ---
 
     - #### @minecss (Styling)
       > Tailwind killer - but simpler
 
-      | Package           | Purpose         |
-      | ----------------- | --------------- |
-      | @minecss/tokens   | Design tokens   |
-      | @minecss/semantic | Semantic layer  |
-      | @minecss/reset    | CSS reset       |
-      | @minecss/utils    | Utility classes |
+      | Package           | Purpose         | Status |
+      | ----------------- | --------------- | ------ |
+      | @minecss/tokens   | Design tokens   | 🚧      |
+      | @minecss/semantic | Semantic layer  | 🚧      |
+      | @minecss/reset    | CSS reset       | 🚧      |
+      | @minecss/utils    | Utility classes | 🚧      |
 
       ---
 
     - #### @mineweb (Framework)
       > Everything you need. Nothing you don't.
 
-      | Package             | Purpose                                  |
-      | ------------------- | ---------------------------------------- |
-      | @mineweb/jsx        | JSX runtime + primitives                 |
-      | @mineweb/components | UI components (Button, Navbar, Modal...) |
-      | @mineweb/icons      | Icon system (tree-shakeable)             |
-      | @mineweb/client     | Client-side framework                    |
-      | @mineweb/app        | Full-stack framework                     |
-      | @mineweb/plugins    | Plugins (SPA, auth...)                   |
-      | @mineweb/extensions | Extensions (theme, toast...)             |
+      | Package             | Purpose                                  | Status |
+      | ------------------- | ---------------------------------------- | ------ |
+      | @mineweb/jsx        | JSX runtime + primitives                 | 🚧      |
+      | @mineweb/components | UI components (Button, Navbar, Modal...) | 🚧      |
+      | @mineweb/icons      | Icon system (tree-shakeable)             | 🚧      |
+      | @mineweb/client     | Client-side framework                    | 🚧      |
+      | @mineweb/app        | Full-stack framework                     | 🚧      |
+      | @mineweb/plugins    | Plugins (SPA, auth...)                   | 🚧      |
+      | @mineweb/extensions | Extensions (theme, toast...)             | 🚧      |
 
       ---
 
@@ -152,4 +151,4 @@
 
   <br>
 
-> updated: 27-01-2026
+> updated: 30-01-2026
