@@ -2,6 +2,10 @@
   > nothing.
 
 - ## 25-03-2026 ~ 00-00-0000
-  > [Mine Language](https://minelang.org)
-  >
-  > [My Blog](https://maysara.blog)
+  > everything.
+
+---
+
+> My programming language ([`minelang.org`](https://minelang.org))
+>
+> My personal blog ([`maysara.blog`](https://maysara.blog))
