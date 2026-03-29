@@ -3,3 +3,5 @@
 
 - ## 25-03-2026 ~ 00-00-0000
   > [Mine Language](https://minelang.org)
+  >
+  > [My Blog](https://maysara.blog)
