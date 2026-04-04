@@ -6,6 +6,6 @@
 
 ---
 
-> My programming language ([`minelang.org`](https://minelang.org))
+> My programming language ([`minelang.org`](https://minelang.org) | [`github/minelang`](https://github.com/minelang))
 >
 > My personal blog ([`maysara.blog`](https://maysara.blog))
